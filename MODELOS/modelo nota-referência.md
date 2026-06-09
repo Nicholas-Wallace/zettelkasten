@@ -1,0 +1,12 @@
+---
+ID:
+tags:
+Temas:
+---
+# REFERÊNCIAS
+
+# RELEVÂNCIA
+
+# RESUMO
+
+# CITAÇÕES E COMENTÁRIOS
