@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - CONCEITOS/2-202512231410 Inflation.md",
+                "file": "04 - PERMANENTES/1 - 202606102038 SOBRE ORDENAÇÃO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-202512231410 Inflation"
+              "title": "1 - 202606102038 SOBRE ORDENAÇÃO"
             }
           },
           {
@@ -56,11 +56,11 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Visualização em gráfico"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -199,32 +199,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "cac3a920c168923e",
+  "active": "9af1a2f41e4ddfe4",
   "lastOpenFiles": [
-    "03 - CONCEITOS/2-202512231410 Inflation.md",
+    "03 - CONCEITOS/1-202609062004 MERGE SORT.md",
+    "04 - PERMANENTES/1 - 202606102038 SOBRE ORDENAÇÃO.md",
+    "04 - PERMANENTES/1-202609062004 MERGE SORT.md",
+    "03 - CONCEITOS/1-202609061913 SELECTION SORT.md",
+    "04 - PERMANENTES/1-202609061913 SELECTION SORT.md",
+    "MODELOS/modelo nota-permantente.md",
+    "MODELOS/modelo nota-referência.md",
+    "MODELOS/modelo nota-indice.md",
+    "MODELOS/modelo nota-conceito.md",
+    "01 - ÍNDICES/1 - ENGENHARIA.md",
+    "MODELOS/Sem título.md",
     "04 - PERMANENTES/2-202512231343.md",
-    "02 - REFERENCIAS/1-202512231338 - Thank God for Bitcoin.md",
     "04 - PERMANENTES/1-202510191913.md",
+    "03 - CONCEITOS/2-202512231410 Inflation.md",
+    "01 - ÍNDICES/2 - FINANCIAS.md",
+    "02 - REFERENCIAS/1-202512231338 - Thank God for Bitcoin.md",
     "03 - CONCEITOS/1-202509171727 Linear Constrained Regulation Problem.md",
     "03 - CONCEITOS/1-202509171726 EXTENDED FARKAS' LEMMA.md",
     "03 - CONCEITOS/1-202509171725 POSITIVE-INVARIANT (PI).md",
     "02 - REFERENCIAS/1-202510191810 - Output feedback design for discrete-time constrained systems subject to persistent disturbances via bilinear programming.md",
     "02 - REFERENCIAS/1-202509171724 - On Positively Invariant Polyhedral Sets and Bilinear Programming for Designing Constrained Controllers.md",
-    "01 - ÍNDICES/1 - ENGENHARIA.md",
-    "01 - ÍNDICES/2 - FINANCIAS.md",
-    "MODELOS/modelo nota-conceito.md",
-    "MODELOS/modelo nota-indice.md",
-    "MODELOS/modelo nota-permantente.md",
-    "MODELOS/modelo nota-referência.md",
     "Welcome.md",
     "Untitled.base",
     "03 - CONCEITOS",
